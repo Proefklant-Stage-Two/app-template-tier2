@@ -4,8 +4,7 @@
       "source": {
         "source": "github",
         "repo": "Proefklant-Stage-Two/stagetwo-plugin-tier2"
-      },
-      "autoUpdate": true
+      }
     }
   },
   "enabledPlugins": {
